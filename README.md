@@ -22,7 +22,7 @@ $pkg install nodejs
 
 $git clone https://github.com/AnonytikusRil/SGXploit
 
-$cd sg
+$cd SGXploit
 
 $npm i
 
