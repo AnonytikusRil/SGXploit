@@ -30,4 +30,5 @@ $npm audit
 
 $node index
 
+Note : Setelah menjalankan script, hapus Stumble Guys dari recent app
 
