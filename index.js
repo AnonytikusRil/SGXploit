@@ -28,7 +28,7 @@ const GoStumble = (auth) => new Promise((resolve, reject) => {
 (async () => {
 
     console.log(`
-${chalk.cyan('The Script was remake by Anonytikus')}
+${chalk.cyan('Script by NOREALS and remaked by Anonytikus')}
 ${chalk.cyan('Tiktok : @Anonytikus')}
 
 ${chalk.red('Terkadang Rasa Kecewa Yang Mendalam Itu Di Sebabkan Oleh Harapan Kita Yang Terlalu Tinggi Terhadap Sesuatu')}
@@ -59,7 +59,7 @@ ${chalk.red('Terkadang Rasa Kecewa Yang Mendalam Itu Di Sebabkan Oleh Harapan Ki
 ▹ Crown    : ${chalk.yellow(`${crown}`)}
 `));
 
-            await sleep(10000);
+            await sleep(8000);
 
         } else if (result == 'YOUR ACCOUNT HAS BANNED!!') {
 
